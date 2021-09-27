@@ -7,8 +7,8 @@
 | Transfer Learning for NLP with TensorFlow Hub | Transfer learning for natural language processing with TensorFlow and TF Hub. |
 | Tweet Emotion Recognition | Using TensorFlow to solve a multi-class classification problem to recognize emotions in tweets. |
 | Using TensorFlow with AWS SageMaker | Deploying an image classifier created and trained with the TensorFlow framework within the Amazon Sagemaker ecosystem.  |
-| Gold & Silver Price Prediction using ARIMA | |
-| Busines Analysis & Process Management | |
+| Gold & Silver Price Prediction using ARIMA | Building an AutoRegressive Integrated Moving Average (ARIMA) model to forecast the price of Gold & Silver. |
+| Busines Analysis & Process Management | Finding solutions to existing business problems; define your business processes, their objectives and how they flow within the organizational context |
 
 
 
