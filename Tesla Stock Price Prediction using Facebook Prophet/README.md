@@ -1,0 +1,4 @@
+# Tesla Stock Price Prediction using Facebook Prophet
+ 
+## About this Course
+In this 1.5-hour long project-based course, you will learn how to build a Facebook Prophet Machine learning model in order to forecast the price of Tesla 30 days into the future. We will also visualize the historical performance of Tesla through graphs and charts using Plotly express and evaluate the performance of the model against real data using Google Finance in Google Sheets. We will also dive into a brief stock analysis of Tesla and we will discuss PE ratio, EPS, Beta, Market cap, Volume and price range of Tesla.  We will end the project by automating the forecasting process in such a way that you will get the forecast of any of your favourite stock with all necessary visualization within a few seconds of uploading the data. By the end of this project, you will be confident in analyzing, visualizing and forecasting the price of any stock of your choice.
