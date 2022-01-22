@@ -13,7 +13,6 @@
 | Tesla Stock Price Prediction using Facebook Prophet | Building a Facebook Prophet Machine learning model in order to forecast the price of a stock 30 days into the future. |
 | Superhero Name Generator with TensorFlow | Creating a neural network and training it on a small dataset of superhero names for it to generate similar names. |
 | Creating Multi Task Models With Keras | Creating and training multi-task, multi-output models with Keras. |
-| Creating Multi Task Models With Keras | Creating and training multi-task, multi-output models with Keras. |
 
 
 
